@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Playfair+Display:ital@1&family=Quicksand:wght@600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: antiquewhite;
+}
+
+.navbar-brand > img {
+    width: 50px;
+    height: 50px;
+    border-radius: 80%;
+}
